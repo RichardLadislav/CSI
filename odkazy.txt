@@ -1,0 +1,3 @@
+canny
+https://sbme-tutorials.github.io/2018/cv/notes/4_week4.html#readings
+https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html
